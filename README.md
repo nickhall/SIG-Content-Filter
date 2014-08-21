@@ -1,4 +1,4 @@
-sig-porn-filter
+SIG Content Filter
 ===============
 
-Removes all porn links from sig.
+Simple script to remove all unsavory links from SIG.
